@@ -72,7 +72,9 @@ To set up this project locally, follow these steps:
 
 - The model is trained using a set of hyperparameters optimized for the dataset.
 - Data augmentation techniques are employed to enhance the training dataset and improve model robustness.
-  
+
+  ![image](https://github.com/user-attachments/assets/701033ec-56a2-4904-b90a-17a2cf33c8dc)
+
 
 ## Results
 
