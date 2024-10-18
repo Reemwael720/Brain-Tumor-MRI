@@ -37,26 +37,6 @@ The model is trained using the [Brain Tumor MRI Dataset](https://www.kaggle.com/
 - Tumor
 - No Tumor
   
-## Training
-* Epochs: 10
-* Optimizer: Adam
-
-![image](https://github.com/user-attachments/assets/20682622-0890-48af-9884-863cf7fce47f)
-
-## Gradio Interface
-![image](https://github.com/user-attachments/assets/4d1b3e18-4195-45a2-8663-723ace7bc284)
-
-
-
-
-
-
-
-
-
-
-
-
 ## Installation
 
 To set up this project locally, follow these steps:
@@ -76,24 +56,30 @@ To set up this project locally, follow these steps:
 
 1. Run the model training script to train the CNN:
     ```bash
-    python train.py
+    python train.ipynb
     ```
 
 2. Launch the Gradio interface:
     ```bash
-    python app.py
+    python app.ipynb
     ```
 
 3. Access the web interface at `http://127.0.0.1:7860` (or the provided public link) to upload MRI images and see predictions.
+
+
 
 ## Model Training
 
 - The model is trained using a set of hyperparameters optimized for the dataset.
 - Data augmentation techniques are employed to enhance the training dataset and improve model robustness.
+  
 
 ## Results
 
 - The model achieved a high accuracy rate in classifying MRI scans, indicating its potential for clinical application.
+  
+  ![image](https://github.com/user-attachments/assets/7ecedcf6-bb11-40e3-aeb6-a8a1ebf6c827)
+
 
 ## Future Work
 
