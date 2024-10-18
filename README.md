@@ -26,4 +26,12 @@ The model is trained using the [Brain Tumor MRI Dataset](https://www.kaggle.com/
 - Tumor
 - No Tumor
 
-### Dataset Structure
+
+## Installation
+To run this project, ensure you have Python (3.6 or above) installed. Then, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/brain-tumor-classification.git
+   cd brain-tumor-classification
+
