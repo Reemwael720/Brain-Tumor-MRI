@@ -22,5 +22,10 @@ The model is trained using the [Brain Tumor MRI Dataset](https://www.kaggle.com/
 * Epochs: 10
 * Optimizer: Adam
 
+![image](https://github.com/user-attachments/assets/20682622-0890-48af-9884-863cf7fce47f)
+
+## Gradio Interface
+![image](https://github.com/user-attachments/assets/4d1b3e18-4195-45a2-8663-723ace7bc284)
+
 
 
